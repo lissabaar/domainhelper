@@ -1,0 +1,43 @@
+#cloudflare-helper-wrap {
+    background-color: #f7f7f7;
+    border: 1px solid #e5e5e5;
+    border-radius: 20px;
+    margin: 30px auto 0;
+    padding: 25px;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    #cloudflare-helper-wrap {
+        width: 300px;
+    }
+
+    .container-large {
+        width: 970px;
+    }
+}
+
+@media (min-width: 992px) {
+    #cloudflare-helper-wrap {
+        width: 500px;
+    }
+
+    .container-large {
+        width: 1170px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #cloudflare-helper-wrap {
+        width: 700px;
+    }
+
+    .container-large {
+        width: 1500px;
+    }
+}
+
+textarea#domains {
+    height: 150px;
+}
