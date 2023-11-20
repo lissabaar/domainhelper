@@ -1,4 +1,4 @@
-﻿# Cloudlflare Domain Helper
+﻿# Cloudlflare Helper
 
 ### A tool for adding and configuring domains in Cloudflare automatically
 
